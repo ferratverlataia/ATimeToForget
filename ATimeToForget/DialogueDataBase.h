@@ -1,5 +1,3 @@
-#ifndef DIALOGUEDATABASE_H
-#define DIALOGUEDATABASE_H
 #include <map>
 #include <sstream>
 #include <fstream>

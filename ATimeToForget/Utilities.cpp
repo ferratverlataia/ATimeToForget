@@ -13,7 +13,7 @@ void Utilities::PrintTextColor(std::string text, int color, int secondsperletter
 	for (std::string::iterator character = text.begin(); character != text.end(); ++character)
 	{
 		std::cout << *character;
-		std::this_thread::sleep_for(std::chrono::seconds(secondsperletter));
+		std::this_thread::sleep_for(std::chrono::milliseconds(secondsperletter));
 	};
 }
 

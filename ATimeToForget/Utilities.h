@@ -9,6 +9,11 @@
 #define RED 4
 #define DEFAULT_WHITE 7
 
+
+#define FAST_TEXT_SPEED 50
+#define MEDIUM_TEXT_SPEED 100
+#define SLOW_TEXT_SPEED 150
+
 class Utilities
 {
 public:
