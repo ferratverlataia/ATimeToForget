@@ -1,3 +1,5 @@
+#ifndef DIALOGUEDATABASE_H
+#define DIALOGUEDATABASE_H
 #include <map>
 #include <sstream>
 #include <fstream>
@@ -9,3 +11,4 @@ public:
 	bool ConvertFromFileToMap(const std::string documentname);
 	std::string ObtainDialogueFromID(const std::string id);
 };
+#endif

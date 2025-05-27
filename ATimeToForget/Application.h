@@ -2,6 +2,7 @@
 #define APPLICATION_H
 #include "DialogueDataBase.h"
 
+
 class Application
 {
 private:

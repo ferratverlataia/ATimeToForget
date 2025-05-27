@@ -1,7 +1,8 @@
 #ifndef UTILITIES_H
 #define UTILITIES_H
-
+#include "DialogueDataBase.h"
 #include <string>
+
 
 #define BLACK 0
 #define BLUE 1
@@ -22,7 +23,12 @@ public:
 	static void PrintTextColorNewLine(std::string text, int color = DEFAULT_WHITE, int secondsperletter = 0);
 	static void ClearScreen();
 	static void NewLine();
-	static void WaitforInput();
+	static void WaitforInput(std::string waitforinputtext);
+	static float GetInputFloat();
+	static int	GetInputInt();
+	static std::string GetInputString();
+	static char GetInputChar();
+	
 };
 
 #endif // UTILITIES_H

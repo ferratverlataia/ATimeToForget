@@ -1,0 +1,67 @@
+ID,SP
+Intro_1_1,Tu personaje Despierta de golpe como si acaba de soñar una pesadilla 
+Intro_1_2,Pero no puedes recordar completamente tu sueño
+Intro_1_3,Solo Fragmentos de este 
+Intro_1_4,Una flor enorme blanca  en el centro de un pueblo rustico
+Intro_1_5,Gente con una flor saliendo de su ojo izquierdo unida y marchando hacia un destino incierto
+Intro_1_6,Por ultimo tu rostro con una de estas flores saliendo de tu ojo derecho de color blanca
+Intro_1_7,Al recordar esto decides tocar tu rosto solo para notar que algo esta saliendo de tu ojo derecho
+Intro_1_8,con el tacto logras percibir que tiene dos componentes este objeto se compone de un tallo y una flor cerrada
+Intro_1_9,Lo raro es que al tocar la flor  notas que esta esta actua como tu nuevo ojo
+Intro_1_10,De pronto se escucha una voz la cual proviene de la entrada del cuarto
+Guardian_1_1,????:Su melodia me intrigua cada dia
+Guardian_1_2,????:¿Lo escuchas?
+Guardian_1_3,"No Sabes de lo que te esta hablando, tu conclusion es que esta loco."
+Guardian_1_4,????:No importa muy pronto te vas a dar cuenta
+Guardian_1_5,????: Puedes llamarme Tiferet Guardian del gremio Amarillo
+Guardian_1_6,Tiferet: Como puedes notarlo te encuentras  en el cuarto del gremio
+Guardian_1_7,Al mencionarte esto el cuarto se ilumina mostrando un color amarillo 
+Guardian_1_8,Tiferet: Como puedes notarlo te encuentras  en el cuarto del gremio del narciso
+Guardian_1_9,Tiferet con su mano procede a prender una flama de color amarilla
+Guardian_1_10,Tiferet:Esto es el espiritu de nuestro gremio
+Guardian_1_11,Tiferet: Tendras que darme un objeto que demuestre la belleza de nuestro gremio
+Guardian_1_12,Tiferet:Este objeto se Encuentra dentro del cuarto del gremio
+Guardian_1_13,Tiferet:Cada Gremio te va a pedir un objeto especial para llevar a cabo la .....
+Guardian_1_14,"Tiferet:""Danza de las flores"""
+Guardian_1_15,"Tiferet: Mucha suerte, Ke... Recipiente"
+Guardian_1_16,"????: no te asustes , te voy a enseñar a utilizar tu don"
+Guardian_1_Bad_1,Esto es lo que piensas de nuestro gremio
+Guardian_1_Bad_2,Interesante....
+Guardian_1_Bad_3,Esto no es lo que esperaba
+Guardian_1_Bad_4,Vamos a ello ...
+Guardian_1_Bad_5,El Guardian procede a ejecutar la danza de la flor
+Guardian_1_Bad_6,Pone el objeto en medio del cuarto
+Guardian_1_Bad_7,Procede a hablar en una lengua la cual no entiendo como si se tratara de un canto
+Guardian_1_Bad_8,Al terminar el canto el cuarto comienca a perder su color 
+Guardian_1_Bad_9,El objeto empieza  a palpitar una energia oscura
+Guardian_1_Bad_10,"La cara del guardian se pone palida, voltea a observarte fijamente en los ojos"
+Guardian_1_Bad_11,La energia oscura procede a consumir al guardian 
+Guardian_1_Bad_12,Sientes como tu flor decide abrirse y la energia oscura procede acercarse
+Guardian_1_Bad_13,Conforme se acerca esta es absorbida por tu flor
+Guardian_1_Bad_14,"Al terminar de consumirse la flor, tu flor se vuelve a cerrar."
+Guardian_1_Bad_15,El cuarto de gremio a perdido su color
+Guardian_1_Bad_16,Decides proseguir al siguiente cuarto
+Guardian_1_Good_1,El Guardian procede a ejecutar la danza de la flor
+Guardian_1_Good_2,La flama de la vida 
+Guardian_1_Good_3,Esto es lo que representa  nuestro gremio 
+Guardian_1_Good_4,Vamos a ello ...
+Guardian_1_Good_5,El Guardian procede a ejecutar la danza de la flor
+Guardian_1_Good_6,El Guardian pone el objeto en medio del cuarto
+Guardian_1_Good_7,Procede a hablar en una lengua la cual no entiendo como si se tratara de un canto
+Guardian_1_Good_8,Al terminar el canto el cuarto procede a iluminarse en un amarillo fuerte
+Guardian_1_Good_9,El objeto empieza a palpitar una energia blanca
+Guardian_1_Good_10,"La cara del guardian brilla con una sonrisa, voltea a osbervarte fijamente en los ojos"
+Guardian_1_Good_11,Tiferet: Muchas gracias recipiente
+Guardian_1_Good_12,la energia brillante empieza absorver a Tiferet
+Guardian_1_Good_13,Sientes como la flor decide abrirse y la energia blanca es absorbida por la flor
+Guardian_1_Good_14,Al terminar de consumirse la flor procede a cerrarse.
+Guardian_1_Good_15,"El cuarto del gremio brilla de color amarillo, logrando capturar perfectamente el gremio como si se tratase de una persona"
+Guardian_1_Good_16,"Determinado, decides proseguir al siguiente cuarto"
+Input_1_1,Presione Enter para continuar.....
+InventoryOptions_1_1,1.Mostrar inventario
+InventoryOptions_1_2,2.utilizar objeto del inventario
+InventoryOptions_1_3,3.Utilizar el don de de clarividencia
+Tutorial_1_1,????: Primero selecciona tu clarividencia en las opciones
+Tutorial_1_2,????: Perfecto ahora estas viendo los objetos que puedes interactuar con
+Tutorial_1_3 ,????:  escoge uno para agregarlo a tu inventario
+Tutorial_1_4,????: Perfecto ahora entrega el objeto al guardian

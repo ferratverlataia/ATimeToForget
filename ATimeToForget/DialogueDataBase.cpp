@@ -15,8 +15,6 @@ bool DialogueDataBase::ConvertFromFileToMap(const std::string documentname)
 
 		while (std::getline(filestream, fileline))
 		{
-
-			
 			//if you want to break it in pieces you have to utilize this on the standard library
 			std::stringstream linetobreak(fileline);
 			std::getline(linetobreak, word, seperator);

@@ -8,6 +8,7 @@ using namespace std;
 
 int main()
 {	
+	
 	std::locale::global(std::locale("en_US.UTF-8"));
 
 	Application app;
