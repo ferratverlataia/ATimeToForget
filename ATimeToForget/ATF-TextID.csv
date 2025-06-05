@@ -1,67 +1,82 @@
-ID,SP
-Intro_1_1,Tu personaje Despierta de golpe como si acaba de soñar una pesadilla 
-Intro_1_2,Pero no puedes recordar completamente tu sueño
-Intro_1_3,Solo Fragmentos de este 
-Intro_1_4,Una flor enorme blanca  en el centro de un pueblo rustico
-Intro_1_5,Gente con una flor saliendo de su ojo izquierdo unida y marchando hacia un destino incierto
-Intro_1_6,Por ultimo tu rostro con una de estas flores saliendo de tu ojo derecho de color blanca
-Intro_1_7,Al recordar esto decides tocar tu rosto solo para notar que algo esta saliendo de tu ojo derecho
-Intro_1_8,con el tacto logras percibir que tiene dos componentes este objeto se compone de un tallo y una flor cerrada
-Intro_1_9,Lo raro es que al tocar la flor  notas que esta esta actua como tu nuevo ojo
-Intro_1_10,De pronto se escucha una voz la cual proviene de la entrada del cuarto
-Guardian_1_1,????:Su melodia me intrigua cada dia
-Guardian_1_2,????:¿Lo escuchas?
-Guardian_1_3,"No Sabes de lo que te esta hablando, tu conclusion es que esta loco."
-Guardian_1_4,????:No importa muy pronto te vas a dar cuenta
-Guardian_1_5,????: Puedes llamarme Tiferet Guardian del gremio Amarillo
-Guardian_1_6,Tiferet: Como puedes notarlo te encuentras  en el cuarto del gremio
-Guardian_1_7,Al mencionarte esto el cuarto se ilumina mostrando un color amarillo 
-Guardian_1_8,Tiferet: Como puedes notarlo te encuentras  en el cuarto del gremio del narciso
-Guardian_1_9,Tiferet con su mano procede a prender una flama de color amarilla
-Guardian_1_10,Tiferet:Esto es el espiritu de nuestro gremio
-Guardian_1_11,Tiferet: Tendras que darme un objeto que demuestre la belleza de nuestro gremio
-Guardian_1_12,Tiferet:Este objeto se Encuentra dentro del cuarto del gremio
-Guardian_1_13,Tiferet:Cada Gremio te va a pedir un objeto especial para llevar a cabo la .....
-Guardian_1_14,"Tiferet:""Danza de las flores"""
-Guardian_1_15,"Tiferet: Mucha suerte, Ke... Recipiente"
-Guardian_1_16,"????: no te asustes , te voy a enseñar a utilizar tu don"
-Guardian_1_Bad_1,Esto es lo que piensas de nuestro gremio
-Guardian_1_Bad_2,Interesante....
-Guardian_1_Bad_3,Esto no es lo que esperaba
-Guardian_1_Bad_4,Vamos a ello ...
-Guardian_1_Bad_5,El Guardian procede a ejecutar la danza de la flor
-Guardian_1_Bad_6,Pone el objeto en medio del cuarto
-Guardian_1_Bad_7,Procede a hablar en una lengua la cual no entiendo como si se tratara de un canto
-Guardian_1_Bad_8,Al terminar el canto el cuarto comienca a perder su color 
-Guardian_1_Bad_9,El objeto empieza  a palpitar una energia oscura
-Guardian_1_Bad_10,"La cara del guardian se pone palida, voltea a observarte fijamente en los ojos"
-Guardian_1_Bad_11,La energia oscura procede a consumir al guardian 
-Guardian_1_Bad_12,Sientes como tu flor decide abrirse y la energia oscura procede acercarse
-Guardian_1_Bad_13,Conforme se acerca esta es absorbida por tu flor
-Guardian_1_Bad_14,"Al terminar de consumirse la flor, tu flor se vuelve a cerrar."
-Guardian_1_Bad_15,El cuarto de gremio a perdido su color
-Guardian_1_Bad_16,Decides proseguir al siguiente cuarto
-Guardian_1_Good_1,El Guardian procede a ejecutar la danza de la flor
-Guardian_1_Good_2,La flama de la vida 
-Guardian_1_Good_3,Esto es lo que representa  nuestro gremio 
-Guardian_1_Good_4,Vamos a ello ...
-Guardian_1_Good_5,El Guardian procede a ejecutar la danza de la flor
-Guardian_1_Good_6,El Guardian pone el objeto en medio del cuarto
-Guardian_1_Good_7,Procede a hablar en una lengua la cual no entiendo como si se tratara de un canto
-Guardian_1_Good_8,Al terminar el canto el cuarto procede a iluminarse en un amarillo fuerte
-Guardian_1_Good_9,El objeto empieza a palpitar una energia blanca
-Guardian_1_Good_10,"La cara del guardian brilla con una sonrisa, voltea a osbervarte fijamente en los ojos"
-Guardian_1_Good_11,Tiferet: Muchas gracias recipiente
-Guardian_1_Good_12,la energia brillante empieza absorver a Tiferet
-Guardian_1_Good_13,Sientes como la flor decide abrirse y la energia blanca es absorbida por la flor
-Guardian_1_Good_14,Al terminar de consumirse la flor procede a cerrarse.
-Guardian_1_Good_15,"El cuarto del gremio brilla de color amarillo, logrando capturar perfectamente el gremio como si se tratase de una persona"
-Guardian_1_Good_16,"Determinado, decides proseguir al siguiente cuarto"
-Input_1_1,Presione Enter para continuar.....
-InventoryOptions_1_1,1.Mostrar inventario
-InventoryOptions_1_2,2.utilizar objeto del inventario
-InventoryOptions_1_3,3.Utilizar el don de de clarividencia
-Tutorial_1_1,????: Primero selecciona tu clarividencia en las opciones
-Tutorial_1_2,????: Perfecto ahora estas viendo los objetos que puedes interactuar con
-Tutorial_1_3 ,????:  escoge uno para agregarlo a tu inventario
-Tutorial_1_4,????: Perfecto ahora entrega el objeto al guardian
+ID,SP,EG
+Title_1_1,A Game By Ivan Ferrat Verlataia,A Game By Ivan Ferrat Verlataia
+Title_1_2,A  Time To Forget,A Time To Forget
+Title_1_3,en que idioma quieres jugar?,What language do you want to play in?
+Title_1_4,1) Español,1) Spanish
+Title_1_5,2)Ingles,2)English
+Intro_1_1,Tu personaje Despierta de golpe como si acaba de soñar una pesadilla ,Your character wakes up suddenly as if he had just dreamed a nightmare.
+Intro_1_2,Pero no puedes recordar completamente tu sueño,But you can't fully remember your dream
+Intro_1_3,Solo Fragmentos de este ,Only Fragments of this
+Intro_1_4,Una flor enorme blanca  en el centro de un pueblo rustico,A huge white flower in the center of a rustic town
+Intro_1_5,Gente con una flor saliendo de su ojo izquierdo unida y marchando hacia un destino incierto,"People with a flower coming out of their left eye, united and marching towards an uncertain destiny"
+Intro_1_6,Por ultimo tu rostro con una de estas flores saliendo de tu ojo derecho de color blanca,Finally your face with one of these white flowers coming out of your right eye
+Intro_1_7,Al recordar esto decides tocar tu rosto solo para notar que algo esta saliendo de tu ojo derecho,Remembering this you decide to touch your face only to notice something coming out of your right eye
+Intro_1_8,con el tacto logras percibir que tiene dos componentes este objeto se compone de un tallo y una flor cerrada,By touch you can perceive that it has two components: this object is composed of a stem and a closed flower.
+Intro_1_9,Lo raro es que al tocar la flor  notas que esta esta actua como tu nuevo ojo,The strange thing is that when you touch the flower you notice that it acts as your new eye.
+Intro_1_10,De pronto se escucha una voz la cual proviene de la entrada del cuarto,Suddenly a voice is heard coming from the entrance of the room
+Guardian_1_1,????:Su melodia me intrigua cada dia,????: Its melody intrigues me every day
+Guardian_1_2,????:¿Lo escuchas?,????: Do you hear it?
+Guardian_1_3,"No Sabes de lo que te esta hablando, tu conclusion es que esta loco.","You don't know what he's talking about, your conclusion is that he's crazy."
+Guardian_1_4,????:No importa muy pronto te vas a dar cuenta,"????: It doesn't matter, you'll realize very soon."
+Guardian_1_5,????: Puedes llamarme Tiferet Guardian del gremio Amarillo,????: You can call me Tiferet Guardian of the Yellow Guild
+Guardian_1_6,Tiferet: Como puedes notarlo te encuentras  en el cuarto del gremio,"Tiferet: As you can see, you are in the guild room."
+Guardian_1_7,Al mencionarte esto el cuarto se ilumina mostrando un color amarillo ,"When I mention this to you, the room lights up showing a yellow color."
+Guardian_1_8,Tiferet: Como puedes notarlo te encuentras  en el cuarto del gremio del narciso,"Tiferet: As you can see, you are in the Narcissus Guild Room."
+Guardian_1_9,Tiferet con su mano procede a prender una flama de color amarilla,Tiferet with his hand proceeds to light a yellow flame
+Guardian_1_10,Tiferet:Esto es el espiritu de nuestro gremio,Tiferet: This is the spirit of our guild
+Guardian_1_11,Tiferet: Tendras que darme un objeto que demuestre la belleza de nuestro gremio,Tiferet: You'll have to give me an item that demonstrates the beauty of our guild.
+Guardian_1_12,Tiferet:Este objeto se Encuentra dentro del cuarto del gremio,Tiferet: This item is found inside the guild hall.
+Guardian_1_13,Tiferet:Cada Gremio te va a pedir un objeto especial para llevar a cabo la .....,Tiferet: Each Guild will ask you for a special item to carry out the .....
+Guardian_1_14,"Tiferet:""Danza de las flores""","Tiferet: ""Dance of the Flowers"""
+Guardian_1_15,"Tiferet: Mucha suerte, Ke... Recipiente","Tiferet: Good luck, Ke... Vessel"
+Guardian_1_16,"????: no te asustes , te voy a enseñar a utilizar tu don","????: Don't be scared, I'll teach you how to use your gift"
+Guardian_1_Bad_1,Esto es lo que piensas de nuestro gremio,This is what you think of our guild
+Guardian_1_Bad_2,Interesante....,Interesting....
+Guardian_1_Bad_3,Esto no es lo que esperaba,This is not what I expected
+Guardian_1_Bad_4,Vamos a ello ...,Let's get to it...
+Guardian_1_Bad_5,El Guardian procede a ejecutar la danza de la flor,The Guardian proceeds to perform the flower dance
+Guardian_1_Bad_6,Pone el objeto en medio del cuarto,Place the object in the middle of the room
+Guardian_1_Bad_7,Procede a hablar en una lengua la cual no entiendo como si se tratara de un canto,He proceeds to speak in a language I don't understand as if it were a song.
+Guardian_1_Bad_8,Al terminar el canto el cuarto comienca a perder su color ,At the end of the song the room begins to lose its color
+Guardian_1_Bad_9,El objeto empieza  a palpitar una energia oscura,The object begins to pulse with dark energy.
+Guardian_1_Bad_10,"La cara del guardian se pone palida, voltea a observarte fijamente en los ojos","The guard's face turns pale, he turns to stare you straight in the eyes."
+Guardian_1_Bad_11,La energia oscura procede a consumir al guardian ,The dark energy proceeds to consume the guardian
+Guardian_1_Bad_12,Sientes como tu flor decide abrirse y la energia oscura procede acercarse,You feel your flower decide to open and the dark energy comes closer.
+Guardian_1_Bad_13,Conforme se acerca esta es absorbida por tu flor,As it approaches it is absorbed by your flower
+Guardian_1_Bad_14,"Al terminar de consumirse la flor, tu flor se vuelve a cerrar.","When the flower is finished burning, your flower closes again."
+Guardian_1_Bad_15,El cuarto de gremio a perdido su color,The guild hall has lost its color
+Guardian_1_Bad_16,Decides proseguir al siguiente cuarto,You decide to proceed to the next room.
+Guardian_1_Good_1,El Guardian procede a ejecutar la danza de la flor,The Guardian proceeds to perform the flower dance
+Guardian_1_Good_2,La flama de la vida ,The flame of life
+Guardian_1_Good_3,Esto es lo que representa  nuestro gremio ,This is what our union represents
+Guardian_1_Good_4,Vamos a ello ...,Let's get to it...
+Guardian_1_Good_5,El Guardian procede a ejecutar la danza de la flor,The Guardian proceeds to perform the flower dance
+Guardian_1_Good_6,El Guardian pone el objeto en medio del cuarto,The Guardian places the object in the middle of the room
+Guardian_1_Good_7,Procede a hablar en una lengua la cual no entiendo como si se tratara de un canto,He proceeds to speak in a language I don't understand as if it were a song.
+Guardian_1_Good_8,Al terminar el canto el cuarto procede a iluminarse en un amarillo fuerte,At the end of the song the room proceeds to light up in a strong yellow
+Guardian_1_Good_9,El objeto empieza a palpitar una energia blanca,The object begins to pulsate a white energy
+Guardian_1_Good_10,"La cara del guardian brilla con una sonrisa, voltea a osbervarte fijamente en los ojos","The guard's face shines with a smile, he turns to stare at you straight in the eyes."
+Guardian_1_Good_11,Tiferet: Muchas gracias recipiente,"Tiferet: Thank you very much, recipient."
+Guardian_1_Good_12,la energia brillante empieza absorver a Tiferet,The bright energy begins to absorb Tiferet
+Guardian_1_Good_13,Sientes como la flor decide abrirse y la energia blanca es absorbida por la flor,You feel the flower decide to open and the white energy is absorbed by the flower
+Guardian_1_Good_14,Al terminar de consumirse la flor procede a cerrarse.,"When the flower is finished burning, it closes."
+Guardian_1_Good_15,"El cuarto del gremio brilla de color amarillo, logrando capturar perfectamente el gremio como si se tratase de una persona","The guild room glows yellow, perfectly capturing the guild as if it were a person."
+Guardian_1_Good_16,"Determinado, decides proseguir al siguiente cuarto","Determined, you decide to proceed to the next room."
+Guardian_1_Death_1,Utilizando el cuchillo que recogiste decides clavarselo al guardian,Using the knife you picked up you decide to stab the guard.
+Guardian_1_Death_2,Ves la mueca de decepcion del guardian y como las pupilas de sus ojos desaparecen,You see the guardian's grimace of disappointment and how the pupils of his eyes disappear.
+Guardian_1_Death_3,"El guardian se cae al suelo, y el cuchillo procede a absorver el aura amarilla del cuarto","The guardian falls to the ground, and the knife proceeds to absorb the yellow aura of the room."
+Guardian_1_Death_4,Feliidades tu cuchillo tiene el color del gremio en el,"Congratulations, your knife has the guild color on it."
+Input_1_1,Presione Enter para continuar.....,Press Enter to continue.....
+InventoryOptions_1_1,1.Mostrar inventario,1.Show inventory
+InventoryOptions_1_2,2.utilizar objeto del inventario,2.use inventory item
+InventoryOptions_1_3,3.Utilizar el don de de clarividencia,3. Use the gift of clairvoyance
+InventoryOptions_1_4,4.Atacar,4.Attack
+Demo_End_1,Gracias por jugar el demo y esperamos que lo hayas disfrutado,Thanks for playing the demo and we hope you enjoyed it.
+Tutorial_1_1,????: Primero selecciona tu clarividencia en las opciones,????: First select your clairvoyance in the options
+Tutorial_1_2,????: Perfecto ahora estas viendo los objetos que puedes interactuar con,????: Perfect now you are seeing the objects that you can interact with
+Tutorial_1_3 ,????:  escoge uno para agregarlo a tu inventario,????: Choose one to add to your inventory
+Tutorial_1_4,????: Perfecto ahora entrega el objeto al guardian,????: Perfect now give the item to the guardian
+Items_1,Florero,Vase
+Items_2,Cuchillo,Knife
+Items_3,Caja,Box
+Clairvoyance_1,Es un cuarto amarillo y dentro de este ves tres objetos,It is a yellow room and inside it you see three objects

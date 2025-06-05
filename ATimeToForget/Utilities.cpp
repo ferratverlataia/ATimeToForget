@@ -6,7 +6,8 @@
 #include <windows.h>
 #include <limits>
 
-void Utilities::PrintTextColor(std::string text, int color, int secondsperletter)
+
+void Utilities::printTextColor(std::string text, int color, int secondsperletter)
 {
 	std::string sentence = "";
 
@@ -19,64 +20,56 @@ void Utilities::PrintTextColor(std::string text, int color, int secondsperletter
 	};
 }
 
-void Utilities::PrintTextColorNewLine(std::string text, int color, int secondsperletter)
+void Utilities::printTextColorNewLine(std::string text, int color, int secondsperletter)
 {
-	Utilities::PrintTextColor(text, color, secondsperletter);
+	Utilities::printTextColor(text, color, secondsperletter);
 	std::cout << std::endl;
 }
 
-void Utilities::NewLine()
+void Utilities::newLine()
 {
 	std::cout << std::endl;
 }
 
-void Utilities::WaitforInput(std::string waitforinputtext)
+void Utilities::waitForInput(std::string waitforinputtext)
 {
-	Utilities::PrintTextColorNewLine(waitforinputtext, DEFAULT_WHITE, 1);
+	Utilities::printTextColorNewLine(waitforinputtext, DEFAULT_WHITE, 1);
 	std::cin.get();
-	Utilities::ClearScreen();
+	Utilities::clearScreen();
 
 }
 
 
 
-float Utilities::GetInputFloat()
+
+
+int Utilities::getInputInt(int minvalidvalue, int maxvalue)
 {
 	int payload;
 
-	while(true) 
+	while (true)
 	{
 		std::cin >> payload;
-		if (std::cin.fail()) 
+		if (std::cin.fail())
 		{
 			std::cin.clear();
-			//std::cin.ignore(std::numeric_limits<std::streamsize>::max, '\n');
-			std::cout << "Escribe un valor valido porfavor" <<std::endl;
+			std::cin.ignore(1000, '\n');
+			std::cout << "Escribe un valor valido porfavor" << std::endl;
 		}
-		else 
+		else
 		{
+			if (payload >= minvalidvalue, payload <= maxvalue) 
+			{
 			return payload;
+			}
+
 		}
 	}
-	
 }
 
-int Utilities::GetInputInt()
-{
 
-}
 
-std::string Utilities::GetInputString()
-{
-
-}
-
-char Utilities::GetInputChar()
-{
-
-}
-
-void Utilities::ClearScreen()
+void Utilities::clearScreen()
 {
 	system("cls");
 }
