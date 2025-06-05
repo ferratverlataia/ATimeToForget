@@ -60,6 +60,7 @@ void GameState::waitForPlayerAction(DialogueDataBase dialoguedatabase)
 			break;
 		case 3: 
 			inv.items.push_back("Items_3");
+			inv.hasKnife = true;
 			break;
 
 		}
